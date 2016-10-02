@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="titleWelcome"> %1$s touch restart for a new game!</string>
+    <string name="too_many_circles">You have more than 5 circles</string>
+    <string name="buttonRestart">Restart</string>
+    <string name="toggleFlag">Current Mode: Flag</string>
+    <string name="toggleTry">Current Mode: Try</string>
+    <string name="current_toggle">You are in mode: %1$s</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="not_a_bomb">That\'s not a bomb... game over!</string>
+    <string name="gameFiveXfive">Play 5x5 Minesweeper</string>
+    <string name="how_to_play">About the Game</string>
+    <string name="numberSurround">Number mode: Surround</string>
+    <string name="numberIndividual">Number mode: Individual</string>
+    <string name="showBombs">Mode: Show Bombs</string>
+    <string name="hideBombs"> Mode: Hide Bombs</string>
+    <string name="youWin">You win!</string>
+
+
+    <string name="learnTitle">Hi %1$s, let\'s learn to play Minesweeper</string>
+    <string name="learnNumberDisplay">The number display button toggles between
+    two options for game play. The surround option displays the number of bombs for the
+    square touched, as well as the numbers in each neighboring square. The individual
+    mode displays only the number of bombs for the square touched.</string>
+    <string name="learnReset">The reset button clears the board of all moves
+    and randomly regenerates bombs.</string>
+    <string name="learnParagraph">The basic goal of minesweeper is to click on all empty squares
+        and flag all bombs. You lose the game when a) you touch a bomb, or b) you place a flag
+        in a square without a bomb. When all squares have been tried and all bombs have been
+    flagged, you win! </string>
+
+
+</resources>
